@@ -34,4 +34,6 @@ The scoring system in Formula 1 rewards drivers who were in the top 10 of the Gr
 
 Since Sprint races were only introduced in 2021 and don't happen every weekend, this means that Sprint and Grand Prix will be compared only for weekends where both events happened over the last 4 seasons. Refer to the original dataset from Kaggle for any doubts: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 
+Link to the presentation slides: https://docs.google.com/presentation/d/1OpV9NLSSkrO_jGWr0I9qcLTlDafr5skOEfzRQgl0UKk/edit?usp=sharing
+
   
