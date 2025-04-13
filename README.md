@@ -28,7 +28,7 @@ The scoring system in Formula 1 rewards drivers who were in the top 10 of the Gr
 
   - How do driver's performances differ from Sprint to Grand Prix? Who are the drivers who perform best at each format?
   - What's the influence of a driver's starting position in the grid for Sprint and Grand Prix? Which format has the biggest difference between starting and ending position? What does this mean for driver's risk appetite in each format?
-  - What teams perform better in Sprint in comparsion to the Grand Prix? How considerable is that difference? Are these usually winning teams?
+  - What teams perform better in Sprint in comparison to the Grand Prix? How considerable is that difference? Are these usually winning teams?
 
 ## Data Remarks
 
